@@ -1,0 +1,82 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Validate all tables
+        run: python scripts/validate_tables.py tables/ --check-determinism --strict
+
+      - name: Generate manifest
+        run: python scripts/generate_manifest.py
+
+      - name: Get version
+        id: version
+        run: echo "version=$(cat VERSION)" >> $GITHUB_OUTPUT
+
+      - name: Create release bundle
+        run: |
+          VERSION="${{ steps.version.outputs.version }}"
+          mkdir -p dist
+
+          # Create tarball with tables and manifest
+          tar -czvf "dist/transfer-function-library-${VERSION}.tar.gz" \
+            tables/ \
+            manifest.json \
+            LICENSE.txt \
+            README.md
+
+          # Create zip for Windows users
+          zip -r "dist/transfer-function-library-${VERSION}.zip" \
+            tables/ \
+            manifest.json \
+            LICENSE.txt \
+            README.md
+
+          # Create checksums
+          cd dist
+          sha256sum transfer-function-library-* > checksums.sha256
+          cat checksums.sha256
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            dist/transfer-function-library-*.tar.gz
+            dist/transfer-function-library-*.zip
+            dist/checksums.sha256
+            manifest.json
+          generate_release_notes: true
+          body: |
+            ## Transfer Function Library ${{ steps.version.outputs.version }}
+
+            ### Installation
+
+            **For plugin developers:**
+            1. Download `transfer-function-library-${{ steps.version.outputs.version }}.tar.gz`
+            2. Extract to your plugin's `factory-presets/` directory
+            3. Update your `tfl.version` pin file
+
+            **Verification:**
+            - Compare `manifest.json` SHA256 with your pin file
+            - See `checksums.sha256` for bundle verification
+
+            ### Contents
+
+            See `manifest.json` for the complete list of transfer functions.

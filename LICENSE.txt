@@ -1,0 +1,48 @@
+ASPEN INSTRUMENTS TRANSFER FUNCTION LIBRARY LICENSE
+
+Transfer Function Library
+Copyright (c) 2025 Aspen Instruments LLC. All rights reserved.
+
+Aspen Instruments LLC
+1500 N Grant St
+Denver, Colorado 80203
+United States
+
+GRANT OF LICENSE
+----------------
+Aspen Instruments LLC ("Licensor") grants you ("Licensee") a free,
+non-exclusive, non-transferable license to use the transfer function data
+files ("Library") contained in this package with any Aspen Instruments
+audio plugin software.
+
+This license allows you to:
+  - Use the Library with Aspen Instruments audio plugins
+  - Use audio created with the Library in your commercial productions
+
+RESTRICTIONS
+------------
+You may not:
+  - Redistribute the Library separately from Aspen Instruments software
+  - Modify, adapt, or create derivative works of the Library files
+  - Use the Library with non-Aspen Instruments software without permission
+  - Remove or alter any copyright or proprietary notices
+
+OWNERSHIP
+---------
+The Library is licensed, not sold. Aspen Instruments LLC retains all right,
+title, and interest in and to the Library, including all intellectual
+property rights.
+
+NO WARRANTY
+-----------
+THIS LIBRARY IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+CONTACT INFORMATION
+-------------------
+Email: support@aspeninstruments.com
+Website: https://aspeninstruments.com
+
+By using the Library, you acknowledge that you have read this agreement,
+understand it, and agree to be bound by its terms and conditions.

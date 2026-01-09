@@ -1,0 +1,41 @@
+name: Validate Tables
+
+on:
+  pull_request:
+    paths:
+      - 'tables/**'
+      - 'scripts/**'
+      - 'VERSION'
+  push:
+    branches:
+      - main
+    paths:
+      - 'tables/**'
+      - 'scripts/**'
+      - 'VERSION'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Validate all tables
+        run: python scripts/validate_tables.py tables/ --check-determinism
+
+      - name: Generate manifest (dry-run)
+        run: python scripts/generate_manifest.py --dry-run
+
+      - name: Verify manifest consistency
+        run: |
+          python scripts/generate_manifest.py
+          # Check that manifest matches expected hash (if exists)
+          if [ -f manifest.json.expected ]; then
+            diff manifest.json manifest.json.expected
+          fi
