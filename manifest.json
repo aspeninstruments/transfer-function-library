@@ -1,39 +1,39 @@
 {
-  "version": "1.0.0",
-  "generated_at": "2026-01-09T04:01:04.109817+00:00",
+  "version": "1.0.1-beta",
+  "generated_at": "2026-01-24T05:15:49.657296+00:00",
   "table_size": 16384,
   "format_version": 3,
-  "bundle_sha256": "ea3fda0c72c2823389d9c82677fd8b0fe601da9f3f84ceac73cbdf46765e837f",
+  "bundle_sha256": "3f207a2796699e21374caf686ed3551516ca998cdf4c627caa181ca977281ac2",
   "categories": {
     "Basic Shapes": {
       "tables": [
         {
-          "name": "AnalogClip",
-          "file": "Basic Shapes/AnalogClip.tfunc",
+          "name": "Analog Clip",
+          "file": "Basic Shapes/Analog Clip.tfunc",
           "sha256": "d133b00336ea693ceaf0108899e88886d40456f521f3c4f86d0146d8cb09dc69",
           "size": 179680
         },
         {
-          "name": "CascadedTanhA",
-          "file": "Basic Shapes/CascadedTanhA.tfunc",
+          "name": "Cascaded Tanh A",
+          "file": "Basic Shapes/Cascaded Tanh A.tfunc",
           "sha256": "ad24bff937161c6625552f7ed8ac3033015a22fbf6070a3ab475c82a8d0f8237",
           "size": 119006
         },
         {
-          "name": "GentleA",
-          "file": "Basic Shapes/GentleA.tfunc",
+          "name": "Gentle A",
+          "file": "Basic Shapes/Gentle A.tfunc",
           "sha256": "dcf13c676cd4e0ecee332262e1880add071f012ce2f617e7dbb706a836071b9b",
           "size": 173888
         },
         {
-          "name": "GentleB",
-          "file": "Basic Shapes/GentleB.tfunc",
+          "name": "Gentle B",
+          "file": "Basic Shapes/Gentle B.tfunc",
           "sha256": "f286dc88bc36416b445476a7f84cdb5361f57b6210aafcee087602a72822d412",
           "size": 142080
         },
         {
-          "name": "GentleC",
-          "file": "Basic Shapes/GentleC.tfunc",
+          "name": "Gentle C",
+          "file": "Basic Shapes/Gentle C.tfunc",
           "sha256": "65ba582bf2218af35fd6f29c6dae34219f071b73ffc9a57972910a336367f1d3",
           "size": 162848
         },
@@ -44,50 +44,50 @@
           "size": 44512
         },
         {
-          "name": "MagneticSaturationA",
-          "file": "Basic Shapes/MagneticSaturationA.tfunc",
+          "name": "Magnetic Saturation A",
+          "file": "Basic Shapes/Magnetic Saturation A.tfunc",
           "sha256": "b9e9ee5a694eccf4c71dd07a2c4af35bd0301827c87ae1f4ba8c2d4374310301",
           "size": 152192
         },
         {
-          "name": "MagneticSaturationB",
-          "file": "Basic Shapes/MagneticSaturationB.tfunc",
+          "name": "Magnetic Saturation B",
+          "file": "Basic Shapes/Magnetic Saturation B.tfunc",
           "sha256": "df616be05fc134ca6c8233d03a3bce57cd3e0d7635c6195b4ace6efc3cf58d05",
           "size": 77856
         },
         {
-          "name": "MagneticSaturationC",
-          "file": "Basic Shapes/MagneticSaturationC.tfunc",
+          "name": "Magnetic Saturation C",
+          "file": "Basic Shapes/Magnetic Saturation C.tfunc",
           "sha256": "313e401f07147b4b2f2f1892a0666b80adc1ea59ac9d2f80d20f0400549cd465",
           "size": 174112
         },
         {
-          "name": "SoftSineA",
-          "file": "Basic Shapes/SoftSineA.tfunc",
+          "name": "Soft Sine A",
+          "file": "Basic Shapes/Soft Sine A.tfunc",
           "sha256": "5cb739c1aecc3fb20e96f105e885d54e785371b46c4f3a23e53cd9e43df87fe8",
           "size": 174912
         },
         {
-          "name": "SoftSineB",
-          "file": "Basic Shapes/SoftSineB.tfunc",
+          "name": "Soft Sine B",
+          "file": "Basic Shapes/Soft Sine B.tfunc",
           "sha256": "0deaf4b3dc7e07ae0884eb15ed927a2f75519966863a86567e526c03f54bf3cb",
           "size": 174944
         },
         {
-          "name": "SoftSineC",
-          "file": "Basic Shapes/SoftSineC.tfunc",
+          "name": "Soft Sine C",
+          "file": "Basic Shapes/Soft Sine C.tfunc",
           "sha256": "52f208cc0c1e0847bfd0fd4e6623ebf5310bc8ee2cebce58d4e7cbecc41ab356",
           "size": 167040
         },
         {
-          "name": "SoftestSineEver",
-          "file": "Basic Shapes/SoftestSineEver.tfunc",
+          "name": "Softest Sine Ever",
+          "file": "Basic Shapes/Softest Sine Ever.tfunc",
           "sha256": "71a16cc636ff44f6e1958add9e327baaba553704911f4505324b1e25304971a3",
           "size": 149504
         },
         {
-          "name": "SoftestSineEverAssym",
-          "file": "Basic Shapes/SoftestSineEverAssym.tfunc",
+          "name": "Softest Sine Ever Assym",
+          "file": "Basic Shapes/Softest Sine Ever Assym.tfunc",
           "sha256": "6703a2eb0baa588de04dcc3e978ce73a54e81a2dd1d5c22e1ad503d6d099071a",
           "size": 77152
         },
@@ -104,20 +104,20 @@
           "size": 176800
         },
         {
-          "name": "TanhA",
-          "file": "Basic Shapes/TanhA.tfunc",
+          "name": "Tanh A",
+          "file": "Basic Shapes/Tanh A.tfunc",
           "sha256": "f70eaa9866c08bf146c84dc13138a25b8c11ffed4167f8246f04dbf06af8c138",
           "size": 178912
         },
         {
-          "name": "TanhB",
-          "file": "Basic Shapes/TanhB.tfunc",
+          "name": "Tanh B",
+          "file": "Basic Shapes/Tanh B.tfunc",
           "sha256": "ec1ac4c489bb10f06991ff720695976650f4133a3368d218c28d3bbcbe6a83f3",
           "size": 171680
         },
         {
-          "name": "TanhC",
-          "file": "Basic Shapes/TanhC.tfunc",
+          "name": "Tanh C",
+          "file": "Basic Shapes/Tanh C.tfunc",
           "sha256": "8d414afbec8a7afd82762b4eaf30b5a8a7bdc199e86f30fa976e6855ea152b0f",
           "size": 166112
         },
@@ -147,213 +147,11 @@
         }
       ]
     },
-    "Classic Hardware": {
-      "tables": [
-        {
-          "name": "Distressor-1P-A",
-          "file": "Classic Hardware/Distressor-1P-A.tfunc",
-          "sha256": "dac2650c00df10aeca6c8fdb1344485b2d7c1bcd7438fb9aab0c221fe58c8ccb",
-          "size": 181568
-        },
-        {
-          "name": "Distressor-1P-B",
-          "file": "Classic Hardware/Distressor-1P-B.tfunc",
-          "sha256": "285e3fdef7f675784ffda6a80816a7fc0e73754dc65d28a1e86e3e00e5a16d24",
-          "size": 181856
-        },
-        {
-          "name": "Distressor-A",
-          "file": "Classic Hardware/Distressor-A.tfunc",
-          "sha256": "cc36b017540e0e036304e71617841fbc037e88d2eed7ee0c0d4758b46d530bdc",
-          "size": 170336
-        },
-        {
-          "name": "Distressor-B",
-          "file": "Classic Hardware/Distressor-B.tfunc",
-          "sha256": "851716777988917901ddddb13be3a8411f33a7454225a8c9c668399343c95c61",
-          "size": 173216
-        },
-        {
-          "name": "Distressor-C",
-          "file": "Classic Hardware/Distressor-C.tfunc",
-          "sha256": "c81e839c7bb52ebc6f6e2984dd2aa688eb389364a8bcc09419cd7947de97a4f5",
-          "size": 172384
-        },
-        {
-          "name": "Distressor-D",
-          "file": "Classic Hardware/Distressor-D.tfunc",
-          "sha256": "0566c02752426dc8fbec37ded810dff085845758d057c15042a0f385768984c4",
-          "size": 99936
-        },
-        {
-          "name": "Distressor-E",
-          "file": "Classic Hardware/Distressor-E.tfunc",
-          "sha256": "d7695bde1495cb76b51158597a64401779c5d939e1fc4991a46401fdcf92a2dd",
-          "size": 171776
-        },
-        {
-          "name": "Distressor-F",
-          "file": "Classic Hardware/Distressor-F.tfunc",
-          "sha256": "6b49f18cf2817e130dae07d356176d0b46a393310d221ac64720403ea8e01725",
-          "size": 168288
-        },
-        {
-          "name": "Distressor-G",
-          "file": "Classic Hardware/Distressor-G.tfunc",
-          "sha256": "b31e4742f5b91697ced9e11a55ce54b0410d0a1f1e725742b394078b814bb6fa",
-          "size": 174048
-        },
-        {
-          "name": "Fairchild-660",
-          "file": "Classic Hardware/Fairchild-660.tfunc",
-          "sha256": "557585bd87db8aac1c185e0212c93d3534e809f3a2960d2c16aaa5afa5639e07",
-          "size": 176096
-        },
-        {
-          "name": "Fairchild-670",
-          "file": "Classic Hardware/Fairchild-670.tfunc",
-          "sha256": "e4b13f08d8f95460917f2babe55ee2b0f9a551b9779bee98a6d025cd4eceac25",
-          "size": 174016
-        },
-        {
-          "name": "LA-2A Tube Compressor",
-          "file": "Classic Hardware/LA-2A Tube Compressor.tfunc",
-          "sha256": "3c208aa27fdf0837bb68564bf90d53336637a29344371a1f7e8446125cff388a",
-          "size": 154592
-        },
-        {
-          "name": "LA-2A-Tube-A",
-          "file": "Classic Hardware/LA-2A-Tube-A.tfunc",
-          "sha256": "4c685d19006fa994299900095f189617c6bcf0ace5d27c763bdc971ad825c019",
-          "size": 181248
-        },
-        {
-          "name": "LA-2A-Tube-B",
-          "file": "Classic Hardware/LA-2A-Tube-B.tfunc",
-          "sha256": "ceaab01f22186e9aeede033607e9750f7c37f3bdfdd1f7a2378c07c6efe45338",
-          "size": 176192
-        },
-        {
-          "name": "LA-2A-Tube-C",
-          "file": "Classic Hardware/LA-2A-Tube-C.tfunc",
-          "sha256": "a1293e19bffae725ae6b6d1d05b694e40698cd657fba06ba1322097a02adde80",
-          "size": 163456
-        },
-        {
-          "name": "LA-2A-Tube-D",
-          "file": "Classic Hardware/LA-2A-Tube-D.tfunc",
-          "sha256": "529c45d5d4b50f37d912406ff3a7433365a05ddc5267b44707c4036797464e72",
-          "size": 156608
-        },
-        {
-          "name": "LA-6176-500Ohm-A",
-          "file": "Classic Hardware/LA-6176-500Ohm-A.tfunc",
-          "sha256": "683911f9af8f5587eb6e3c4246856f43f15c46c4b1c3b741d95abf5c1f65c7d7",
-          "size": 163232
-        },
-        {
-          "name": "LA-6176-500Ohm-B",
-          "file": "Classic Hardware/LA-6176-500Ohm-B.tfunc",
-          "sha256": "5dcb7fe15dd660153933cb01324bb577b4d6ede054823c5680f983bce5c0e511",
-          "size": 163232
-        },
-        {
-          "name": "LA-6176-500Ohm-C",
-          "file": "Classic Hardware/LA-6176-500Ohm-C.tfunc",
-          "sha256": "b99ffd228ddad6939d405db13058aeb18028f1e68d537ebd69b641b6ec3037ac",
-          "size": 156448
-        },
-        {
-          "name": "LA-6176-500Ohm-D",
-          "file": "Classic Hardware/LA-6176-500Ohm-D.tfunc",
-          "sha256": "da59e13008527086a3125af2e48182aefd6ce19a16d1d08cd8346dedfb2a3f52",
-          "size": 152416
-        },
-        {
-          "name": "LA-6176-A",
-          "file": "Classic Hardware/LA-6176-A.tfunc",
-          "sha256": "6c0307cf5a481077e8322c8ef532767235fad0fe36fbddd152dcf8f094e5da04",
-          "size": 177664
-        },
-        {
-          "name": "LA-6176-B",
-          "file": "Classic Hardware/LA-6176-B.tfunc",
-          "sha256": "976ffab8e527c7898706aefb11e0fbfcfb697328576bbe17bb41506244c03a71",
-          "size": 173696
-        },
-        {
-          "name": "LA-6176-C",
-          "file": "Classic Hardware/LA-6176-C.tfunc",
-          "sha256": "eeb80acdd91dc15e961769790118bf8addc807eba1fc3e32aacaa5384c7f5538",
-          "size": 170464
-        },
-        {
-          "name": "LA-6176-D",
-          "file": "Classic Hardware/LA-6176-D.tfunc",
-          "sha256": "631e5f7ac9aa00207cacf8caeb6ca9cec3c38ba6021d46200ba443bcd673c181",
-          "size": 163648
-        },
-        {
-          "name": "LA-6176-Mic-A",
-          "file": "Classic Hardware/LA-6176-Mic-A.tfunc",
-          "sha256": "d157058c0e95fd9a1b116677d1484feb2a4edcf314d57865db08abcef65d3541",
-          "size": 168000
-        },
-        {
-          "name": "LA-6176-Mic-B",
-          "file": "Classic Hardware/LA-6176-Mic-B.tfunc",
-          "sha256": "bd5a2a4505fca2bdbdf7ed889970b3d5b9e7c10dc8c18e2eccc1bee41a1d4e0f",
-          "size": 168320
-        },
-        {
-          "name": "LA-6176-Mic-C",
-          "file": "Classic Hardware/LA-6176-Mic-C.tfunc",
-          "sha256": "7c7a697c35f89bdfe1b5c524105409fa5dd93eb2f44dcf690bfd73ce49451c94",
-          "size": 162112
-        },
-        {
-          "name": "LA-6176-Mic-D",
-          "file": "Classic Hardware/LA-6176-Mic-D.tfunc",
-          "sha256": "8a25e7d4d5fa1767b1e87591533483d2084af9769105b8c5be6b0e21395ec920",
-          "size": 161696
-        },
-        {
-          "name": "LA-6176-Mic-E",
-          "file": "Classic Hardware/LA-6176-Mic-E.tfunc",
-          "sha256": "36620a03edce5b0fdcabc7d4267561b30c4fa76aecacddfe8f666a305e39560c",
-          "size": 164576
-        },
-        {
-          "name": "LA-6176-Mic-F",
-          "file": "Classic Hardware/LA-6176-Mic-F.tfunc",
-          "sha256": "f7feced37db4497fb28ae6ba3a450b91567f10a7ace6982f1ed5a00eb71e795d",
-          "size": 162912
-        },
-        {
-          "name": "LA-6176-Mic-G",
-          "file": "Classic Hardware/LA-6176-Mic-G.tfunc",
-          "sha256": "d78d3fd08bd8f5cb6b633bd7df605d81140a309036f6ad614f5f5a004b0fb300",
-          "size": 162400
-        },
-        {
-          "name": "Pultec",
-          "file": "Classic Hardware/Pultec.tfunc",
-          "sha256": "9b9122c99fd0746ad9055b85348a61fc238585f548d92209fbf308055b162cdf",
-          "size": 180160
-        },
-        {
-          "name": "VT-737-Soft-Clip",
-          "file": "Classic Hardware/VT-737-Soft-Clip.tfunc",
-          "sha256": "ac1666a6fda2bac80ef7e6e8739f4284ff0775f2428dc12fcd7b52ee35fb6fb5",
-          "size": 181664
-        }
-      ]
-    },
     "Experimental": {
       "tables": [
         {
-          "name": "CrazySinusoid",
-          "file": "Experimental/CrazySinusoid.tfunc",
+          "name": "Crazy Sinusoid",
+          "file": "Experimental/Crazy Sinusoid.tfunc",
           "sha256": "57fdd2e61eb667cbea7665ac110176101907d7561d2278329473d205ff82bb94",
           "size": 186880
         },
@@ -364,26 +162,26 @@
           "size": 181504
         },
         {
-          "name": "FatSinusoid",
-          "file": "Experimental/FatSinusoid.tfunc",
+          "name": "Fat Sinusoid",
+          "file": "Experimental/Fat Sinusoid.tfunc",
           "sha256": "1b159279648fe44840bb01e3c3564365e68b516921320eea32e2237ab9a306a9",
           "size": 176096
         },
         {
-          "name": "FlattenedTanh",
-          "file": "Experimental/FlattenedTanh.tfunc",
+          "name": "Flattened Tanh",
+          "file": "Experimental/Flattened Tanh.tfunc",
           "sha256": "9e9d6bd60e8226576603729d3aaad6dd7efe729abdc96457755e1aeabf3689c1",
           "size": 115733
         },
         {
-          "name": "LoudFoldbackA",
-          "file": "Experimental/LoudFoldbackA.tfunc",
+          "name": "Loud Foldback A",
+          "file": "Experimental/Loud Foldback A.tfunc",
           "sha256": "1eeae4b11f9d05ac87d24177bb904e407f3ee2d954fd10b90510af703c3993c3",
           "size": 178016
         },
         {
-          "name": "LoudFoldbackB",
-          "file": "Experimental/LoudFoldbackB.tfunc",
+          "name": "Loud Foldback B",
+          "file": "Experimental/Loud Foldback B.tfunc",
           "sha256": "180ad07e05008dbc9dea8b3897a7ced63b22531c94796f1e849d7351f2e32be9",
           "size": 174080
         },
@@ -394,26 +192,50 @@
           "size": 169248
         },
         {
-          "name": "SinoidFoldA",
-          "file": "Experimental/SinoidFoldA.tfunc",
+          "name": "Root A",
+          "file": "Experimental/Root A.tfunc",
+          "sha256": "faf996e59c02668992643c9f16c1b206b33b7cdbd60576a6a9198f2288e00618",
+          "size": 106188
+        },
+        {
+          "name": "Root B",
+          "file": "Experimental/Root B.tfunc",
+          "sha256": "bb0689ddc56ff55617388fc7c37c578c974f87a5cfae88b15cb0a1bee49a7479",
+          "size": 110028
+        },
+        {
+          "name": "Root C",
+          "file": "Experimental/Root C.tfunc",
+          "sha256": "06e84c0f5801a0105c0b8bfd50bb0d4b460e2a619ad4fd713e3782b58f86af3b",
+          "size": 106184
+        },
+        {
+          "name": "Root D",
+          "file": "Experimental/Root D.tfunc",
+          "sha256": "56adcc4a39b6e000a90c2664de3313e00d7793af84b73400571bad6df861c2b0",
+          "size": 100465
+        },
+        {
+          "name": "Sinoid Fold A",
+          "file": "Experimental/Sinoid Fold A.tfunc",
           "sha256": "70f1a9a4bee9f831fc1b1a91176d4d7d094f91adaa4509848e8357d09b2f092e",
           "size": 177184
         },
         {
-          "name": "SinoidFoldB",
-          "file": "Experimental/SinoidFoldB.tfunc",
+          "name": "Sinoid Fold B",
+          "file": "Experimental/Sinoid Fold B.tfunc",
           "sha256": "f762501a0f63496836315f37fb402d10ef2516eb752f3236c5ce0fbe99521dca",
           "size": 180672
         },
         {
-          "name": "SinoidFoldC",
-          "file": "Experimental/SinoidFoldC.tfunc",
+          "name": "Sinoid Fold C",
+          "file": "Experimental/Sinoid Fold C.tfunc",
           "sha256": "155a64fc0daa4a0bb547deb866895e326abb1b35d3551334e16335987bf65675",
           "size": 184320
         },
         {
-          "name": "SinoidFoldD",
-          "file": "Experimental/SinoidFoldD.tfunc",
+          "name": "Sinoid Fold D",
+          "file": "Experimental/Sinoid Fold D.tfunc",
           "sha256": "0dab271a2b01b885acc5eca2361577c75520086efca6941f572dfc0636a5f374",
           "size": 185760
         },
@@ -424,20 +246,20 @@
           "size": 109211
         },
         {
-          "name": "SpackledTanh",
-          "file": "Experimental/SpackledTanh.tfunc",
+          "name": "Spackled Tanh A",
+          "file": "Experimental/Spackled Tanh A.tfunc",
           "sha256": "90b902bf05b73b4064c3a8a0cc1db64db2e668e282d2b727308fa65d1e356d35",
           "size": 109518
         },
         {
-          "name": "SpackledTanhB",
-          "file": "Experimental/SpackledTanhB.tfunc",
+          "name": "Spackled Tanh B",
+          "file": "Experimental/Spackled Tanh B.tfunc",
           "sha256": "ccb5cbc6a55517bccccc635e4ecd5b52d37d106d4f0c039a5f36dd9167c53758",
           "size": 109045
         },
         {
-          "name": "SpackledTrigA",
-          "file": "Experimental/SpackledTrigA.tfunc",
+          "name": "Spackled Trig A",
+          "file": "Experimental/Spackled Trig A.tfunc",
           "sha256": "5cb051a438a7e716693b17ee48937a55a0b1a9d87b6380042216342c8ae4402e",
           "size": 108734
         },
@@ -448,72 +270,424 @@
           "size": 115839
         },
         {
-          "name": "WayTooMuchTrig",
-          "file": "Experimental/WayTooMuchTrig.tfunc",
+          "name": "Way Too Much Trig",
+          "file": "Experimental/Way Too Much Trig.tfunc",
           "sha256": "bf194103e383e5f01b64a84016b7f25075cedb8dd44afb3aa865f52a770e5c40",
           "size": 184032
+        }
+      ]
+    },
+    "Hardware Models": {
+      "tables": [
+        {
+          "name": "AC10 A",
+          "file": "Hardware Models/AC10 A.tfunc",
+          "sha256": "a357d821cf33feab7724da99b3eefde1cc7dba066283d4be49f216adc5ce5127",
+          "size": 116424
+        },
+        {
+          "name": "AC10 B",
+          "file": "Hardware Models/AC10 B.tfunc",
+          "sha256": "2ac9810e9934e5f9453c7e98a4edb2b6e8525043730b2f7bf201a383f7ca0268",
+          "size": 115922
+        },
+        {
+          "name": "AC10 C",
+          "file": "Hardware Models/AC10 C.tfunc",
+          "sha256": "c06956e595e6310c9b7bf4da97640b82e8ed16ddf3eb0d21dbddaa3e531facbe",
+          "size": 116679
+        },
+        {
+          "name": "AC10 D",
+          "file": "Hardware Models/AC10 D.tfunc",
+          "sha256": "26efb972ffe755969647425725ff3c0fe3820e7510dc2d72c8cebbffaa9ab75a",
+          "size": 109579
+        },
+        {
+          "name": "AC10 E",
+          "file": "Hardware Models/AC10 E.tfunc",
+          "sha256": "7a26275b3198d2184163cb43d08a6d3cb4896235df8a0d297ad56d27f178896d",
+          "size": 105128
+        },
+        {
+          "name": "Bassman A",
+          "file": "Hardware Models/Bassman A.tfunc",
+          "sha256": "2f9856ddbd12032a7004f0e5898b06f8dd9fe1c69afc04670058993606169d03",
+          "size": 118350
+        },
+        {
+          "name": "Bassman B",
+          "file": "Hardware Models/Bassman B.tfunc",
+          "sha256": "fe17f14ceb838c7020371e781f0ac24ef034a14ac030e50d016ef4a5be2d7e64",
+          "size": 113652
+        },
+        {
+          "name": "Bassman C",
+          "file": "Hardware Models/Bassman C.tfunc",
+          "sha256": "6e15f8127f00cf81295f550fc7eb7138632c07549bb3e2ff169abe35017243d4",
+          "size": 114968
+        },
+        {
+          "name": "Distressor A",
+          "file": "Hardware Models/Distressor A.tfunc",
+          "sha256": "cc36b017540e0e036304e71617841fbc037e88d2eed7ee0c0d4758b46d530bdc",
+          "size": 170336
+        },
+        {
+          "name": "Distressor B",
+          "file": "Hardware Models/Distressor B.tfunc",
+          "sha256": "851716777988917901ddddb13be3a8411f33a7454225a8c9c668399343c95c61",
+          "size": 173216
+        },
+        {
+          "name": "Distressor C",
+          "file": "Hardware Models/Distressor C.tfunc",
+          "sha256": "c81e839c7bb52ebc6f6e2984dd2aa688eb389364a8bcc09419cd7947de97a4f5",
+          "size": 172384
+        },
+        {
+          "name": "Distressor D",
+          "file": "Hardware Models/Distressor D.tfunc",
+          "sha256": "0566c02752426dc8fbec37ded810dff085845758d057c15042a0f385768984c4",
+          "size": 99936
+        },
+        {
+          "name": "Distressor E",
+          "file": "Hardware Models/Distressor E.tfunc",
+          "sha256": "d7695bde1495cb76b51158597a64401779c5d939e1fc4991a46401fdcf92a2dd",
+          "size": 171776
+        },
+        {
+          "name": "Distressor F",
+          "file": "Hardware Models/Distressor F.tfunc",
+          "sha256": "6b49f18cf2817e130dae07d356176d0b46a393310d221ac64720403ea8e01725",
+          "size": 168288
+        },
+        {
+          "name": "Distressor G",
+          "file": "Hardware Models/Distressor G.tfunc",
+          "sha256": "b31e4742f5b91697ced9e11a55ce54b0410d0a1f1e725742b394078b814bb6fa",
+          "size": 174048
+        },
+        {
+          "name": "Distressor-1P A",
+          "file": "Hardware Models/Distressor-1P A.tfunc",
+          "sha256": "dac2650c00df10aeca6c8fdb1344485b2d7c1bcd7438fb9aab0c221fe58c8ccb",
+          "size": 181568
+        },
+        {
+          "name": "Distressor-1P B",
+          "file": "Hardware Models/Distressor-1P B.tfunc",
+          "sha256": "285e3fdef7f675784ffda6a80816a7fc0e73754dc65d28a1e86e3e00e5a16d24",
+          "size": 181856
+        },
+        {
+          "name": "Fairchild 660",
+          "file": "Hardware Models/Fairchild 660.tfunc",
+          "sha256": "557585bd87db8aac1c185e0212c93d3534e809f3a2960d2c16aaa5afa5639e07",
+          "size": 176096
+        },
+        {
+          "name": "Fairchild 670",
+          "file": "Hardware Models/Fairchild 670.tfunc",
+          "sha256": "e4b13f08d8f95460917f2babe55ee2b0f9a551b9779bee98a6d025cd4eceac25",
+          "size": 174016
+        },
+        {
+          "name": "Green Russian",
+          "file": "Hardware Models/Green Russian.tfunc",
+          "sha256": "171e5fac14d58771fae70a92199a0c3e3f3b166e228668afbe71f915a2141ee3",
+          "size": 117065
+        },
+        {
+          "name": "Imperial A",
+          "file": "Hardware Models/Imperial A.tfunc",
+          "sha256": "88cec59e0b676a33994e6b2f25dd2101e34cc4d798188e1c5793f0e85d5a1920",
+          "size": 116324
+        },
+        {
+          "name": "Imperial B",
+          "file": "Hardware Models/Imperial B.tfunc",
+          "sha256": "77059568f210eae6a9a7c177440bba4c9833466888e8a43bb14188844616e78c",
+          "size": 112163
+        },
+        {
+          "name": "Imperial C",
+          "file": "Hardware Models/Imperial C.tfunc",
+          "sha256": "7582fa4d1d74371fec9fe3b45d82466b046825ef3345fa3f0bbe7810254dceed",
+          "size": 110427
+        },
+        {
+          "name": "Imperial D",
+          "file": "Hardware Models/Imperial D.tfunc",
+          "sha256": "bad75f4355d1a7e4051988214f2a5a90eab6fd62b727d4da10e2655ed4992a6b",
+          "size": 114111
+        },
+        {
+          "name": "LA-2A Tube Compressor",
+          "file": "Hardware Models/LA-2A Tube Compressor.tfunc",
+          "sha256": "3c208aa27fdf0837bb68564bf90d53336637a29344371a1f7e8446125cff388a",
+          "size": 154592
+        },
+        {
+          "name": "LA-2A-Tube A",
+          "file": "Hardware Models/LA-2A-Tube A.tfunc",
+          "sha256": "4c685d19006fa994299900095f189617c6bcf0ace5d27c763bdc971ad825c019",
+          "size": 181248
+        },
+        {
+          "name": "LA-2A-Tube B",
+          "file": "Hardware Models/LA-2A-Tube B.tfunc",
+          "sha256": "ceaab01f22186e9aeede033607e9750f7c37f3bdfdd1f7a2378c07c6efe45338",
+          "size": 176192
+        },
+        {
+          "name": "LA-2A-Tube C",
+          "file": "Hardware Models/LA-2A-Tube C.tfunc",
+          "sha256": "a1293e19bffae725ae6b6d1d05b694e40698cd657fba06ba1322097a02adde80",
+          "size": 163456
+        },
+        {
+          "name": "LA-2A-Tube D",
+          "file": "Hardware Models/LA-2A-Tube D.tfunc",
+          "sha256": "529c45d5d4b50f37d912406ff3a7433365a05ddc5267b44707c4036797464e72",
+          "size": 156608
+        },
+        {
+          "name": "LA-6176 A",
+          "file": "Hardware Models/LA-6176 A.tfunc",
+          "sha256": "6c0307cf5a481077e8322c8ef532767235fad0fe36fbddd152dcf8f094e5da04",
+          "size": 177664
+        },
+        {
+          "name": "LA-6176 B",
+          "file": "Hardware Models/LA-6176 B.tfunc",
+          "sha256": "976ffab8e527c7898706aefb11e0fbfcfb697328576bbe17bb41506244c03a71",
+          "size": 173696
+        },
+        {
+          "name": "LA-6176 C",
+          "file": "Hardware Models/LA-6176 C.tfunc",
+          "sha256": "eeb80acdd91dc15e961769790118bf8addc807eba1fc3e32aacaa5384c7f5538",
+          "size": 170464
+        },
+        {
+          "name": "LA-6176 D",
+          "file": "Hardware Models/LA-6176 D.tfunc",
+          "sha256": "631e5f7ac9aa00207cacf8caeb6ca9cec3c38ba6021d46200ba443bcd673c181",
+          "size": 163648
+        },
+        {
+          "name": "LA-6176-500Ohm A",
+          "file": "Hardware Models/LA-6176-500Ohm A.tfunc",
+          "sha256": "683911f9af8f5587eb6e3c4246856f43f15c46c4b1c3b741d95abf5c1f65c7d7",
+          "size": 163232
+        },
+        {
+          "name": "LA-6176-500Ohm B",
+          "file": "Hardware Models/LA-6176-500Ohm B.tfunc",
+          "sha256": "5dcb7fe15dd660153933cb01324bb577b4d6ede054823c5680f983bce5c0e511",
+          "size": 163232
+        },
+        {
+          "name": "LA-6176-500Ohm C",
+          "file": "Hardware Models/LA-6176-500Ohm C.tfunc",
+          "sha256": "b99ffd228ddad6939d405db13058aeb18028f1e68d537ebd69b641b6ec3037ac",
+          "size": 156448
+        },
+        {
+          "name": "LA-6176-500Ohm D",
+          "file": "Hardware Models/LA-6176-500Ohm D.tfunc",
+          "sha256": "da59e13008527086a3125af2e48182aefd6ce19a16d1d08cd8346dedfb2a3f52",
+          "size": 152416
+        },
+        {
+          "name": "LA-6176-Mic A",
+          "file": "Hardware Models/LA-6176-Mic A.tfunc",
+          "sha256": "d157058c0e95fd9a1b116677d1484feb2a4edcf314d57865db08abcef65d3541",
+          "size": 168000
+        },
+        {
+          "name": "LA-6176-Mic B",
+          "file": "Hardware Models/LA-6176-Mic B.tfunc",
+          "sha256": "bd5a2a4505fca2bdbdf7ed889970b3d5b9e7c10dc8c18e2eccc1bee41a1d4e0f",
+          "size": 168320
+        },
+        {
+          "name": "LA-6176-Mic C",
+          "file": "Hardware Models/LA-6176-Mic C.tfunc",
+          "sha256": "7c7a697c35f89bdfe1b5c524105409fa5dd93eb2f44dcf690bfd73ce49451c94",
+          "size": 162112
+        },
+        {
+          "name": "LA-6176-Mic D",
+          "file": "Hardware Models/LA-6176-Mic D.tfunc",
+          "sha256": "8a25e7d4d5fa1767b1e87591533483d2084af9769105b8c5be6b0e21395ec920",
+          "size": 161696
+        },
+        {
+          "name": "LA-6176-Mic E",
+          "file": "Hardware Models/LA-6176-Mic E.tfunc",
+          "sha256": "36620a03edce5b0fdcabc7d4267561b30c4fa76aecacddfe8f666a305e39560c",
+          "size": 164576
+        },
+        {
+          "name": "LA-6176-Mic F",
+          "file": "Hardware Models/LA-6176-Mic F.tfunc",
+          "sha256": "f7feced37db4497fb28ae6ba3a450b91567f10a7ace6982f1ed5a00eb71e795d",
+          "size": 162912
+        },
+        {
+          "name": "LA-6176-Mic G",
+          "file": "Hardware Models/LA-6176-Mic G.tfunc",
+          "sha256": "d78d3fd08bd8f5cb6b633bd7df605d81140a309036f6ad614f5f5a004b0fb300",
+          "size": 162400
+        },
+        {
+          "name": "Neve1073 A",
+          "file": "Hardware Models/Neve1073 A.tfunc",
+          "sha256": "7f7cba535b943638aeab98b5610afad8e912bb93bd2e87de7cc6a03c643ccf2c",
+          "size": 117774
+        },
+        {
+          "name": "Neve1073 B",
+          "file": "Hardware Models/Neve1073 B.tfunc",
+          "sha256": "75ae947effff9b5d7f7bfb97a6d34e822ef15162c38a5c01a8bacfe58c4125a8",
+          "size": 118035
+        },
+        {
+          "name": "Neve1073 C",
+          "file": "Hardware Models/Neve1073 C.tfunc",
+          "sha256": "d5b72366381a122e70839ecd90af0aaaabc4adce220afc85cefd2ad44a18d47c",
+          "size": 115166
+        },
+        {
+          "name": "Neve1073 D",
+          "file": "Hardware Models/Neve1073 D.tfunc",
+          "sha256": "a6ad324240bd24da6fcd26b2e9f45d620c17ada6c24963a1e22b92ab58aa208d",
+          "size": 114482
+        },
+        {
+          "name": "Neve1073 E",
+          "file": "Hardware Models/Neve1073 E.tfunc",
+          "sha256": "36c12db5172348757eb06f0eb2904bf7987cb11a88cbd424144a6043f8ffc45b",
+          "size": 119194
+        },
+        {
+          "name": "Neve1073 F",
+          "file": "Hardware Models/Neve1073 F.tfunc",
+          "sha256": "eb436d2337e973d9ecd619e62b6ac047d1749f5bf4e99360e7fb8c66b8cecc1c",
+          "size": 119162
+        },
+        {
+          "name": "Neve1073 G",
+          "file": "Hardware Models/Neve1073 G.tfunc",
+          "sha256": "42d22605a06844579c29147f73fc727354a23383508eb5ee985b3900515ff4bb",
+          "size": 118831
+        },
+        {
+          "name": "Neve1073 H",
+          "file": "Hardware Models/Neve1073 H.tfunc",
+          "sha256": "8d93380c78c14f9cd87019d95419762b4ec28ffc1baaaed5981f1f804d4f4088",
+          "size": 118463
+        },
+        {
+          "name": "Plasma Coil A",
+          "file": "Hardware Models/Plasma Coil A.tfunc",
+          "sha256": "64f4e3e0469b7496e32b7d1ac008c0d00a5eb6e6a0c4047588ca706580c170ed",
+          "size": 111130
+        },
+        {
+          "name": "Plasma Coil B",
+          "file": "Hardware Models/Plasma Coil B.tfunc",
+          "sha256": "3436045b6385b6f37c743d97376ffe070a6c336bf8cb845a644ffededc07675a",
+          "size": 110647
+        },
+        {
+          "name": "Pultec",
+          "file": "Hardware Models/Pultec.tfunc",
+          "sha256": "9b9122c99fd0746ad9055b85348a61fc238585f548d92209fbf308055b162cdf",
+          "size": 180160
+        },
+        {
+          "name": "TK Imperial",
+          "file": "Hardware Models/TK Imperial.tfunc",
+          "sha256": "edcb3bdb46a2f9d75dc84502168ac3920e62912d4ededc994b8fadb890feaea6",
+          "size": 119076
+        },
+        {
+          "name": "VT-737-Soft-Clip",
+          "file": "Hardware Models/VT-737-Soft-Clip.tfunc",
+          "sha256": "ac1666a6fda2bac80ef7e6e8739f4284ff0775f2428dc12fcd7b52ee35fb6fb5",
+          "size": 181664
         }
       ]
     },
     "Trig Harmonics": {
       "tables": [
         {
-          "name": "BasicTrigA",
-          "file": "Trig Harmonics/BasicTrigA.tfunc",
+          "name": "Basic Trig A",
+          "file": "Trig Harmonics/Basic Trig A.tfunc",
           "sha256": "5a5528d60cc3b64875b7e97d83e784f8398836d121f29361e127fcd3d8c3ddd7",
           "size": 179264
         },
         {
-          "name": "BasicTrigB",
-          "file": "Trig Harmonics/BasicTrigB.tfunc",
+          "name": "Basic Trig B",
+          "file": "Trig Harmonics/Basic Trig B.tfunc",
           "sha256": "6541e5ffdc61ef34ffde50d74b77af9099b6464f0837955c97c957f396312bc5",
           "size": 175904
         },
         {
-          "name": "BasicTrigC",
-          "file": "Trig Harmonics/BasicTrigC.tfunc",
+          "name": "Basic Trig C",
+          "file": "Trig Harmonics/Basic Trig C.tfunc",
           "sha256": "5e89bc46f0b1f990fbb16ac9022c9200ce9c194147a34d1d29c3c68788596f32",
           "size": 168576
         },
         {
-          "name": "BasicTrigD",
-          "file": "Trig Harmonics/BasicTrigD.tfunc",
+          "name": "Basic Trig D",
+          "file": "Trig Harmonics/Basic Trig D.tfunc",
           "sha256": "5e1bcff553c789c8bb5add708497c08c9695bf836bab62530b8b2988f3023cf6",
           "size": 167840
         },
         {
-          "name": "BasicTrigE",
-          "file": "Trig Harmonics/BasicTrigE.tfunc",
+          "name": "Basic Trig E",
+          "file": "Trig Harmonics/Basic Trig E.tfunc",
           "sha256": "e23fdd6c3b4210fec9996a0f2e0d169af73472c63d3012a1edcc44ca540c115e",
           "size": 169696
         },
         {
-          "name": "BasicTrigF",
-          "file": "Trig Harmonics/BasicTrigF.tfunc",
+          "name": "Basic Trig F",
+          "file": "Trig Harmonics/Basic Trig F.tfunc",
           "sha256": "0a9d79659aa43ff73591e4466502ef3c1a56bbbba8a70d73d7d24fec57f493e3",
           "size": 172960
         },
         {
-          "name": "BasicTrigG",
-          "file": "Trig Harmonics/BasicTrigG.tfunc",
+          "name": "Basic Trig G",
+          "file": "Trig Harmonics/Basic Trig G.tfunc",
           "sha256": "2d0555b8c6c22f93dd6d7a2d77cbb6b1c7316dca8483e921a274f7177efa2e25",
           "size": 172800
         },
         {
-          "name": "BasicTrigH",
-          "file": "Trig Harmonics/BasicTrigH.tfunc",
+          "name": "Basic Trig H",
+          "file": "Trig Harmonics/Basic Trig H.tfunc",
           "sha256": "ebbbfae305d64d491e7f425cc46a388ba30f83a614b75407e1071a866ca63c01",
           "size": 172832
         },
         {
-          "name": "OnlyThreeHarmonics",
-          "file": "Trig Harmonics/OnlyThreeHarmonics.tfunc",
+          "name": "Only Three Harmonics",
+          "file": "Trig Harmonics/Only Three Harmonics.tfunc",
           "sha256": "f100e75954eb75c1c8265103e62c15efc7e86b5eea640962152dfe5fe68e394b",
           "size": 170304
         },
         {
-          "name": "SilkyTrig",
-          "file": "Trig Harmonics/SilkyTrig.tfunc",
+          "name": "Seventeen vs. Eighteen",
+          "file": "Trig Harmonics/Seventeen vs. Eighteen.tfunc",
+          "sha256": "9f057f0ec1dcef42d23244c499e7e0480089a0aa1ac55a6559130acba63e460d",
+          "size": 122218
+        },
+        {
+          "name": "Silky Trig",
+          "file": "Trig Harmonics/Silky Trig.tfunc",
           "sha256": "424607e2e7b1302e33a491cdb620d4bd7f0b01f28c57456836fc5a8e74e9113b",
           "size": 102015
         },
@@ -530,61 +704,61 @@
           "size": 178432
         },
         {
-          "name": "TrigFive",
-          "file": "Trig Harmonics/TrigFive.tfunc",
+          "name": "Trig Five",
+          "file": "Trig Harmonics/Trig Five.tfunc",
           "sha256": "8d1b33bb5db044d001039fb11db78b341a756569bd4af499ca12c17a09764300",
           "size": 180544
         },
         {
-          "name": "TrigLoudA",
-          "file": "Trig Harmonics/TrigLoudA.tfunc",
+          "name": "Trig Loud A",
+          "file": "Trig Harmonics/Trig Loud A.tfunc",
           "sha256": "ec5e7b15e2d1075880240e8795289dc6b2c8b311ed0f7c264c91ecc11e38ff4b",
           "size": 167264
         },
         {
-          "name": "TrigLoudB",
-          "file": "Trig Harmonics/TrigLoudB.tfunc",
+          "name": "Trig Loud B",
+          "file": "Trig Harmonics/Trig Loud B.tfunc",
           "sha256": "d4f2ad8e6e5d106219467035b034730969608f1e3b1d0ef1e6c6b54315e7b3f5",
           "size": 171840
         },
         {
-          "name": "TrigNine",
-          "file": "Trig Harmonics/TrigNine.tfunc",
+          "name": "Trig Nine",
+          "file": "Trig Harmonics/Trig Nine.tfunc",
           "sha256": "83cf5722ed9f95c0de8e3749cd3944c7bade698b2a525516ba1677d48f809046",
           "size": 179744
         },
         {
-          "name": "TrigPowerSeriesGentle",
-          "file": "Trig Harmonics/TrigPowerSeriesGentle.tfunc",
+          "name": "Trig Power Series Gentle",
+          "file": "Trig Harmonics/Trig Power Series Gentle.tfunc",
           "sha256": "c53e42e03ddf769bcda79ad5f33442099f2f58f99a4a9868a9b9dd404ef0df3a",
           "size": 180896
         },
         {
-          "name": "TrigPowerSeriesLoud",
-          "file": "Trig Harmonics/TrigPowerSeriesLoud.tfunc",
+          "name": "Trig Power Series Loud",
+          "file": "Trig Harmonics/Trig Power Series Loud.tfunc",
           "sha256": "49cd0737135a8826be357d2e2624065b13e1e8e440acd42703571c2bcbfdf3cb",
           "size": 176192
         },
         {
-          "name": "TrigPowerSeriesSuperLoud",
-          "file": "Trig Harmonics/TrigPowerSeriesSuperLoud.tfunc",
+          "name": "Trig Power Series Super Loud",
+          "file": "Trig Harmonics/Trig Power Series Super Loud.tfunc",
           "sha256": "e1fa053e8ddc845c3550f02ca65ef610fce6dec420c940f66c7ddc0651831dee",
           "size": 175136
         },
         {
-          "name": "TrigSoftSine",
-          "file": "Trig Harmonics/TrigSoftSine.tfunc",
+          "name": "Trig Soft Sine",
+          "file": "Trig Harmonics/Trig Soft Sine.tfunc",
           "sha256": "31da50cd7fd4da35703c363c2930bb49b237a72a11b8597dca0b11fa2b588308",
           "size": 170752
         },
         {
-          "name": "TrigTanh",
-          "file": "Trig Harmonics/TrigTanh.tfunc",
+          "name": "Trig Tanh",
+          "file": "Trig Harmonics/Trig Tanh.tfunc",
           "sha256": "7a31567a8b5681c57e1c93ed6f5d7bb034f6df12bf63671cc7853653895052c2",
           "size": 175904
         }
       ]
     }
   },
-  "total_tables": 94
+  "total_tables": 123
 }
