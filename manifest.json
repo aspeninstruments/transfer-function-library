@@ -1,9 +1,9 @@
 {
-  "version": "1.0.1-beta",
-  "generated_at": "2026-01-24T05:15:49.657296+00:00",
+  "version": "1.1.0-beta",
+  "generated_at": "2026-05-25T04:27:20.238553+00:00",
   "table_size": 16384,
   "format_version": 3,
-  "bundle_sha256": "3f207a2796699e21374caf686ed3551516ca998cdf4c627caa181ca977281ac2",
+  "bundle_sha256": "3eb7f3d84a38c62cff0e9aa5072c621dc1572c2cbd0d0563587e5662946d293e",
   "categories": {
     "Basic Shapes": {
       "tables": [
@@ -280,346 +280,346 @@
     "Hardware Models": {
       "tables": [
         {
-          "name": "AC10 A",
-          "file": "Hardware Models/AC10 A.tfunc",
-          "sha256": "a357d821cf33feab7724da99b3eefde1cc7dba066283d4be49f216adc5ce5127",
-          "size": 116424
+          "name": "BMAN-A",
+          "file": "Hardware Models/BMAN-A.tfunc",
+          "sha256": "4b047aa1f35884c1e92e5e8e2883d92120639db80332f9caf577fdf2190d5fa6",
+          "size": 118473
         },
         {
-          "name": "AC10 B",
-          "file": "Hardware Models/AC10 B.tfunc",
-          "sha256": "2ac9810e9934e5f9453c7e98a4edb2b6e8525043730b2f7bf201a383f7ca0268",
-          "size": 115922
+          "name": "BMAN-B",
+          "file": "Hardware Models/BMAN-B.tfunc",
+          "sha256": "851ad995023f3cd8bf56e08ac83d9850b1879c2d5f8ae8aa0c29f8a62935f98c",
+          "size": 113775
         },
         {
-          "name": "AC10 C",
-          "file": "Hardware Models/AC10 C.tfunc",
-          "sha256": "c06956e595e6310c9b7bf4da97640b82e8ed16ddf3eb0d21dbddaa3e531facbe",
-          "size": 116679
+          "name": "BMAN-C",
+          "file": "Hardware Models/BMAN-C.tfunc",
+          "sha256": "e021dcf2cdddf4f1f2b42bfb31014eb58dc91e3db2e0cf737a98a6506ab41d50",
+          "size": 115091
         },
         {
-          "name": "AC10 D",
-          "file": "Hardware Models/AC10 D.tfunc",
-          "sha256": "26efb972ffe755969647425725ff3c0fe3820e7510dc2d72c8cebbffaa9ab75a",
-          "size": 109579
+          "name": "DSTRESS-1P-A",
+          "file": "Hardware Models/DSTRESS-1P-A.tfunc",
+          "sha256": "88d20a7a996e6da8760f533554ab1494778aebfc50ba5ce7c68b649959478d09",
+          "size": 121178
         },
         {
-          "name": "AC10 E",
-          "file": "Hardware Models/AC10 E.tfunc",
-          "sha256": "7a26275b3198d2184163cb43d08a6d3cb4896235df8a0d297ad56d27f178896d",
-          "size": 105128
+          "name": "DSTRESS-1P-B",
+          "file": "Hardware Models/DSTRESS-1P-B.tfunc",
+          "sha256": "7e813a3a1f3a1314a3df8541a72295c58d67f08c600aaaf5ba39c0635a3fa658",
+          "size": 121371
         },
         {
-          "name": "Bassman A",
-          "file": "Hardware Models/Bassman A.tfunc",
-          "sha256": "2f9856ddbd12032a7004f0e5898b06f8dd9fe1c69afc04670058993606169d03",
-          "size": 118350
+          "name": "DSTRESS-A",
+          "file": "Hardware Models/DSTRESS-A.tfunc",
+          "sha256": "cef6a1fcfa6fb6cfa9cfaec597016bd42ac0015a265bd05400420c6d8cbdfac4",
+          "size": 113685
         },
         {
-          "name": "Bassman B",
-          "file": "Hardware Models/Bassman B.tfunc",
-          "sha256": "fe17f14ceb838c7020371e781f0ac24ef034a14ac030e50d016ef4a5be2d7e64",
-          "size": 113652
+          "name": "DSTRESS-B",
+          "file": "Hardware Models/DSTRESS-B.tfunc",
+          "sha256": "3a044594ebe7b3a4b56ce35be68a1892060d736e753e31cd52bfebb909a722eb",
+          "size": 115585
         },
         {
-          "name": "Bassman C",
-          "file": "Hardware Models/Bassman C.tfunc",
-          "sha256": "6e15f8127f00cf81295f550fc7eb7138632c07549bb3e2ff169abe35017243d4",
-          "size": 114968
+          "name": "DSTRESS-C",
+          "file": "Hardware Models/DSTRESS-C.tfunc",
+          "sha256": "f0352b487c08541a5e9c7983a27d65ff7b9ea0b2e8add6c189d8b3b4c4ed5e03",
+          "size": 115036
         },
         {
-          "name": "Distressor A",
-          "file": "Hardware Models/Distressor A.tfunc",
-          "sha256": "cc36b017540e0e036304e71617841fbc037e88d2eed7ee0c0d4758b46d530bdc",
-          "size": 170336
+          "name": "DSTRESS-D",
+          "file": "Hardware Models/DSTRESS-D.tfunc",
+          "sha256": "6507b79aac094b4ea2bb9f0a10838965117b27fb2fc3e36f237838b183cac3d3",
+          "size": 66750
         },
         {
-          "name": "Distressor B",
-          "file": "Hardware Models/Distressor B.tfunc",
-          "sha256": "851716777988917901ddddb13be3a8411f33a7454225a8c9c668399343c95c61",
-          "size": 173216
+          "name": "DSTRESS-E",
+          "file": "Hardware Models/DSTRESS-E.tfunc",
+          "sha256": "4cec45a5a320c19aa1311fcb9971c2cf9622046f9fddf6d2a66f2324dfa1afa9",
+          "size": 114638
         },
         {
-          "name": "Distressor C",
-          "file": "Hardware Models/Distressor C.tfunc",
-          "sha256": "c81e839c7bb52ebc6f6e2984dd2aa688eb389364a8bcc09419cd7947de97a4f5",
-          "size": 172384
+          "name": "DSTRESS-F",
+          "file": "Hardware Models/DSTRESS-F.tfunc",
+          "sha256": "20aabbe44560aef2d4f317bcfbbc9c29dde24f70ce82eec663250b4f6de969c1",
+          "size": 112306
         },
         {
-          "name": "Distressor D",
-          "file": "Hardware Models/Distressor D.tfunc",
-          "sha256": "0566c02752426dc8fbec37ded810dff085845758d057c15042a0f385768984c4",
-          "size": 99936
+          "name": "DSTRESS-G",
+          "file": "Hardware Models/DSTRESS-G.tfunc",
+          "sha256": "822f6dfc9efd1d15a91f6a9886c151bbfbc521fda53e5bbd090654bb7eb36345",
+          "size": 116145
         },
         {
-          "name": "Distressor E",
-          "file": "Hardware Models/Distressor E.tfunc",
-          "sha256": "d7695bde1495cb76b51158597a64401779c5d939e1fc4991a46401fdcf92a2dd",
-          "size": 171776
+          "name": "FAIR660",
+          "file": "Hardware Models/FAIR660.tfunc",
+          "sha256": "176e33b3faa98693d9a27381a825fe66824c1940028fdf81018c5652e05428e5",
+          "size": 117492
         },
         {
-          "name": "Distressor F",
-          "file": "Hardware Models/Distressor F.tfunc",
-          "sha256": "6b49f18cf2817e130dae07d356176d0b46a393310d221ac64720403ea8e01725",
-          "size": 168288
+          "name": "FAIR670",
+          "file": "Hardware Models/FAIR670.tfunc",
+          "sha256": "02b2b01c26edd40764ec53869e05b2fb477e8acbb4a2d3ea3350b510b44f76df",
+          "size": 116110
         },
         {
-          "name": "Distressor G",
-          "file": "Hardware Models/Distressor G.tfunc",
-          "sha256": "b31e4742f5b91697ced9e11a55ce54b0410d0a1f1e725742b394078b814bb6fa",
-          "size": 174048
+          "name": "GMUFF",
+          "file": "Hardware Models/GMUFF.tfunc",
+          "sha256": "df13b349582668dafa71c4b89d20c72fff2e40d66aa77ede6770f5636e36694b",
+          "size": 117205
         },
         {
-          "name": "Distressor-1P A",
-          "file": "Hardware Models/Distressor-1P A.tfunc",
-          "sha256": "dac2650c00df10aeca6c8fdb1344485b2d7c1bcd7438fb9aab0c221fe58c8ccb",
-          "size": 181568
+          "name": "L2A Tube",
+          "file": "Hardware Models/L2A Tube.tfunc",
+          "sha256": "cc4eb40dceb2e6c432559c9e39c5989d9ee4149a081f2dfbc0830ee8dfb7302d",
+          "size": 103161
         },
         {
-          "name": "Distressor-1P B",
-          "file": "Hardware Models/Distressor-1P B.tfunc",
-          "sha256": "285e3fdef7f675784ffda6a80816a7fc0e73754dc65d28a1e86e3e00e5a16d24",
-          "size": 181856
+          "name": "L2A-A",
+          "file": "Hardware Models/L2A-A.tfunc",
+          "sha256": "200daa94a4c9a61af9a6ebb53474df8303e4914a770d85e309b533ee239e713e",
+          "size": 120941
         },
         {
-          "name": "Fairchild 660",
-          "file": "Hardware Models/Fairchild 660.tfunc",
-          "sha256": "557585bd87db8aac1c185e0212c93d3534e809f3a2960d2c16aaa5afa5639e07",
-          "size": 176096
+          "name": "L2A-B",
+          "file": "Hardware Models/L2A-B.tfunc",
+          "sha256": "07ab3d2199de72f80a4676f4a4e5404dfc192ef9e5c381d0322978cde3b58336",
+          "size": 117571
         },
         {
-          "name": "Fairchild 670",
-          "file": "Hardware Models/Fairchild 670.tfunc",
-          "sha256": "e4b13f08d8f95460917f2babe55ee2b0f9a551b9779bee98a6d025cd4eceac25",
-          "size": 174016
+          "name": "L2A-C",
+          "file": "Hardware Models/L2A-C.tfunc",
+          "sha256": "6e19f4fb28d2ffce64bcd1413abd913db7e8464909ce0e83e3942d6c5439323a",
+          "size": 109087
         },
         {
-          "name": "Green Russian",
-          "file": "Hardware Models/Green Russian.tfunc",
-          "sha256": "171e5fac14d58771fae70a92199a0c3e3f3b166e228668afbe71f915a2141ee3",
-          "size": 117065
+          "name": "L2A-D",
+          "file": "Hardware Models/L2A-D.tfunc",
+          "sha256": "d959a832118751c9dbff78f90ac6ecc9eb0ef95747ef43b873d041a1efa611d1",
+          "size": 104521
         },
         {
-          "name": "Imperial A",
-          "file": "Hardware Models/Imperial A.tfunc",
-          "sha256": "88cec59e0b676a33994e6b2f25dd2101e34cc4d798188e1c5793f0e85d5a1920",
-          "size": 116324
+          "name": "L76-500-A",
+          "file": "Hardware Models/L76-500-A.tfunc",
+          "sha256": "af24c3abfb648c4dc1f17d0d0427959593c65a40eee0d8b0fe474afe41b6b09c",
+          "size": 108972
         },
         {
-          "name": "Imperial B",
-          "file": "Hardware Models/Imperial B.tfunc",
-          "sha256": "77059568f210eae6a9a7c177440bba4c9833466888e8a43bb14188844616e78c",
-          "size": 112163
+          "name": "L76-500-B",
+          "file": "Hardware Models/L76-500-B.tfunc",
+          "sha256": "817693f62ac70c82394b631ff231f87f0506c664ca41d82d447b7d8f26ccc38c",
+          "size": 108955
         },
         {
-          "name": "Imperial C",
-          "file": "Hardware Models/Imperial C.tfunc",
-          "sha256": "7582fa4d1d74371fec9fe3b45d82466b046825ef3345fa3f0bbe7810254dceed",
-          "size": 110427
+          "name": "L76-500-C",
+          "file": "Hardware Models/L76-500-C.tfunc",
+          "sha256": "5df85f005f6f448e5204c8a02745db38b7f2fd62c90098bab1fa0fe184cb2e7f",
+          "size": 104437
         },
         {
-          "name": "Imperial D",
-          "file": "Hardware Models/Imperial D.tfunc",
-          "sha256": "bad75f4355d1a7e4051988214f2a5a90eab6fd62b727d4da10e2655ed4992a6b",
-          "size": 114111
+          "name": "L76-500-D",
+          "file": "Hardware Models/L76-500-D.tfunc",
+          "sha256": "1d1467847ac6365179bf91402b6e5ac948215f686572e4bf61f72d359090cfc8",
+          "size": 101759
         },
         {
-          "name": "LA-2A Tube Compressor",
-          "file": "Hardware Models/LA-2A Tube Compressor.tfunc",
-          "sha256": "3c208aa27fdf0837bb68564bf90d53336637a29344371a1f7e8446125cff388a",
-          "size": 154592
+          "name": "L76-A",
+          "file": "Hardware Models/L76-A.tfunc",
+          "sha256": "f4a331120cc076ec61e817db6e9291c9736fdedb0290456aa085657fefd35d2e",
+          "size": 118555
         },
         {
-          "name": "LA-2A-Tube A",
-          "file": "Hardware Models/LA-2A-Tube A.tfunc",
-          "sha256": "4c685d19006fa994299900095f189617c6bcf0ace5d27c763bdc971ad825c019",
-          "size": 181248
+          "name": "L76-B",
+          "file": "Hardware Models/L76-B.tfunc",
+          "sha256": "3e0b7ca8a01247f0795a5df9c7af8ae8ebdd35b3c1ebf2b9c1a198b3012f1902",
+          "size": 115910
         },
         {
-          "name": "LA-2A-Tube B",
-          "file": "Hardware Models/LA-2A-Tube B.tfunc",
-          "sha256": "ceaab01f22186e9aeede033607e9750f7c37f3bdfdd1f7a2378c07c6efe45338",
-          "size": 176192
+          "name": "L76-C",
+          "file": "Hardware Models/L76-C.tfunc",
+          "sha256": "a3e707aa4498bfc3ffc9539f3292d044e28817ba776e883f3d45fcf1a5b36e8b",
+          "size": 113753
         },
         {
-          "name": "LA-2A-Tube C",
-          "file": "Hardware Models/LA-2A-Tube C.tfunc",
-          "sha256": "a1293e19bffae725ae6b6d1d05b694e40698cd657fba06ba1322097a02adde80",
-          "size": 163456
+          "name": "L76-D",
+          "file": "Hardware Models/L76-D.tfunc",
+          "sha256": "540d8305f5f3a0c6e3548240b7ba3fc49c14f90e7360a56629607344c6beb54c",
+          "size": 109221
         },
         {
-          "name": "LA-2A-Tube D",
-          "file": "Hardware Models/LA-2A-Tube D.tfunc",
-          "sha256": "529c45d5d4b50f37d912406ff3a7433365a05ddc5267b44707c4036797464e72",
-          "size": 156608
+          "name": "L76-Mic-A",
+          "file": "Hardware Models/L76-Mic-A.tfunc",
+          "sha256": "fb11b036f5522e88a42c618d5c7e7933c3c77e690f4d6750b946b3d156055b49",
+          "size": 112137
         },
         {
-          "name": "LA-6176 A",
-          "file": "Hardware Models/LA-6176 A.tfunc",
-          "sha256": "6c0307cf5a481077e8322c8ef532767235fad0fe36fbddd152dcf8f094e5da04",
-          "size": 177664
+          "name": "L76-Mic-B",
+          "file": "Hardware Models/L76-Mic-B.tfunc",
+          "sha256": "b0d40227ce93d0d9b72ad5a312e9d23e89dc8364968697b5592b45df57547469",
+          "size": 112336
         },
         {
-          "name": "LA-6176 B",
-          "file": "Hardware Models/LA-6176 B.tfunc",
-          "sha256": "976ffab8e527c7898706aefb11e0fbfcfb697328576bbe17bb41506244c03a71",
-          "size": 173696
+          "name": "L76-Mic-C",
+          "file": "Hardware Models/L76-Mic-C.tfunc",
+          "sha256": "e1d8c8a2164ebf27cea066b83658398ba05cb68af794e3b478ad102fbc85d26d",
+          "size": 108199
         },
         {
-          "name": "LA-6176 C",
-          "file": "Hardware Models/LA-6176 C.tfunc",
-          "sha256": "eeb80acdd91dc15e961769790118bf8addc807eba1fc3e32aacaa5384c7f5538",
-          "size": 170464
+          "name": "L76-Mic-D",
+          "file": "Hardware Models/L76-Mic-D.tfunc",
+          "sha256": "6fdb75b334eb05f3c159604869cc39202cba153d49234cddeeefd13aa7be646f",
+          "size": 107938
         },
         {
-          "name": "LA-6176 D",
-          "file": "Hardware Models/LA-6176 D.tfunc",
-          "sha256": "631e5f7ac9aa00207cacf8caeb6ca9cec3c38ba6021d46200ba443bcd673c181",
-          "size": 163648
+          "name": "L76-Mic-E",
+          "file": "Hardware Models/L76-Mic-E.tfunc",
+          "sha256": "9072d57bddd6e4fdddcd3f40605cbf7893b306725fd8c3bd24fe3f0c4e538cae",
+          "size": 109850
         },
         {
-          "name": "LA-6176-500Ohm A",
-          "file": "Hardware Models/LA-6176-500Ohm A.tfunc",
-          "sha256": "683911f9af8f5587eb6e3c4246856f43f15c46c4b1c3b741d95abf5c1f65c7d7",
-          "size": 163232
+          "name": "L76-Mic-F",
+          "file": "Hardware Models/L76-Mic-F.tfunc",
+          "sha256": "d1573ed5fbd2080aa103cd655eab23af92513f371e997f688c610a7c2049f172",
+          "size": 108736
         },
         {
-          "name": "LA-6176-500Ohm B",
-          "file": "Hardware Models/LA-6176-500Ohm B.tfunc",
-          "sha256": "5dcb7fe15dd660153933cb01324bb577b4d6ede054823c5680f983bce5c0e511",
-          "size": 163232
+          "name": "L76-Mic-G",
+          "file": "Hardware Models/L76-Mic-G.tfunc",
+          "sha256": "b5236f65dc29859c483d4b6d3f9b3a0eb4ee2c9855f864f363a0d18e7c406aaf",
+          "size": 108394
         },
         {
-          "name": "LA-6176-500Ohm C",
-          "file": "Hardware Models/LA-6176-500Ohm C.tfunc",
-          "sha256": "b99ffd228ddad6939d405db13058aeb18028f1e68d537ebd69b641b6ec3037ac",
-          "size": 156448
+          "name": "N1073-A",
+          "file": "Hardware Models/N1073-A.tfunc",
+          "sha256": "fa62fbd06c197802b8e1cbf975ccf955518cdd0fa09eb2c955e4e010910251c7",
+          "size": 117886
         },
         {
-          "name": "LA-6176-500Ohm D",
-          "file": "Hardware Models/LA-6176-500Ohm D.tfunc",
-          "sha256": "da59e13008527086a3125af2e48182aefd6ce19a16d1d08cd8346dedfb2a3f52",
-          "size": 152416
+          "name": "N1073-B",
+          "file": "Hardware Models/N1073-B.tfunc",
+          "sha256": "4fb47d5aa7d0adc5b6752c7abe1946afa870e03dbf61bebf335bbe484248b82c",
+          "size": 118147
         },
         {
-          "name": "LA-6176-Mic A",
-          "file": "Hardware Models/LA-6176-Mic A.tfunc",
-          "sha256": "d157058c0e95fd9a1b116677d1484feb2a4edcf314d57865db08abcef65d3541",
-          "size": 168000
+          "name": "N1073-C",
+          "file": "Hardware Models/N1073-C.tfunc",
+          "sha256": "0b017c2d3950c3fb2d04846825fac1b2bcc2196f9969447cee2e0f8769746746",
+          "size": 115278
         },
         {
-          "name": "LA-6176-Mic B",
-          "file": "Hardware Models/LA-6176-Mic B.tfunc",
-          "sha256": "bd5a2a4505fca2bdbdf7ed889970b3d5b9e7c10dc8c18e2eccc1bee41a1d4e0f",
-          "size": 168320
+          "name": "N1073-D",
+          "file": "Hardware Models/N1073-D.tfunc",
+          "sha256": "c9c6794a0bccdff4169e601f6760cc385fd06e4fd1cc442faa36216ac6c9e2ca",
+          "size": 114594
         },
         {
-          "name": "LA-6176-Mic C",
-          "file": "Hardware Models/LA-6176-Mic C.tfunc",
-          "sha256": "7c7a697c35f89bdfe1b5c524105409fa5dd93eb2f44dcf690bfd73ce49451c94",
-          "size": 162112
+          "name": "N1073-E",
+          "file": "Hardware Models/N1073-E.tfunc",
+          "sha256": "b482e3ce071ee975995a498f388fc9074cabcec3a65046a337948ce8b79dddc3",
+          "size": 119306
         },
         {
-          "name": "LA-6176-Mic D",
-          "file": "Hardware Models/LA-6176-Mic D.tfunc",
-          "sha256": "8a25e7d4d5fa1767b1e87591533483d2084af9769105b8c5be6b0e21395ec920",
-          "size": 161696
+          "name": "N1073-F",
+          "file": "Hardware Models/N1073-F.tfunc",
+          "sha256": "6a73836f0b5ec04ea4affebdd15b2a00787475288eb3800d88814d77905d1d64",
+          "size": 119274
         },
         {
-          "name": "LA-6176-Mic E",
-          "file": "Hardware Models/LA-6176-Mic E.tfunc",
-          "sha256": "36620a03edce5b0fdcabc7d4267561b30c4fa76aecacddfe8f666a305e39560c",
-          "size": 164576
+          "name": "N1073-G",
+          "file": "Hardware Models/N1073-G.tfunc",
+          "sha256": "f981a1f8bed02022c76fa44a5d2788140dbfde5c7385ebb66451138842f2f763",
+          "size": 118943
         },
         {
-          "name": "LA-6176-Mic F",
-          "file": "Hardware Models/LA-6176-Mic F.tfunc",
-          "sha256": "f7feced37db4497fb28ae6ba3a450b91567f10a7ace6982f1ed5a00eb71e795d",
-          "size": 162912
+          "name": "N1073-H",
+          "file": "Hardware Models/N1073-H.tfunc",
+          "sha256": "bfd171a011288b1ed6be84bba15542a58263e20f41d5b0c68ed53193c76c3db4",
+          "size": 118575
         },
         {
-          "name": "LA-6176-Mic G",
-          "file": "Hardware Models/LA-6176-Mic G.tfunc",
-          "sha256": "d78d3fd08bd8f5cb6b633bd7df605d81140a309036f6ad614f5f5a004b0fb300",
-          "size": 162400
+          "name": "PLAS-A",
+          "file": "Hardware Models/PLAS-A.tfunc",
+          "sha256": "370db46623407d1f7997bca8451d6db7a9cd7f0104fd96b67b239b28df591cb4",
+          "size": 111255
         },
         {
-          "name": "Neve1073 A",
-          "file": "Hardware Models/Neve1073 A.tfunc",
-          "sha256": "7f7cba535b943638aeab98b5610afad8e912bb93bd2e87de7cc6a03c643ccf2c",
-          "size": 117774
+          "name": "PLAS-B",
+          "file": "Hardware Models/PLAS-B.tfunc",
+          "sha256": "99407bfb16117f8cd78fcdef08092eb49eaf707099caabd26b3028fefe2080b7",
+          "size": 110772
         },
         {
-          "name": "Neve1073 B",
-          "file": "Hardware Models/Neve1073 B.tfunc",
-          "sha256": "75ae947effff9b5d7f7bfb97a6d34e822ef15162c38a5c01a8bacfe58c4125a8",
-          "size": 118035
+          "name": "PUL1A",
+          "file": "Hardware Models/PUL1A.tfunc",
+          "sha256": "14cd8974dbf06e13c5e560513a8e5979bf3d9b4d7e1bb223eac8c1e19abeee04",
+          "size": 120224
         },
         {
-          "name": "Neve1073 C",
-          "file": "Hardware Models/Neve1073 C.tfunc",
-          "sha256": "d5b72366381a122e70839ecd90af0aaaabc4adce220afc85cefd2ad44a18d47c",
-          "size": 115166
+          "name": "TKIMP",
+          "file": "Hardware Models/TKIMP.tfunc",
+          "sha256": "97f54bcbbf335c5263f8cc6881176479c36f34ee05aa342b1a77ced9943ae28b",
+          "size": 119205
         },
         {
-          "name": "Neve1073 D",
-          "file": "Hardware Models/Neve1073 D.tfunc",
-          "sha256": "a6ad324240bd24da6fcd26b2e9f45d620c17ada6c24963a1e22b92ab58aa208d",
-          "size": 114482
+          "name": "TKIMP-A",
+          "file": "Hardware Models/TKIMP-A.tfunc",
+          "sha256": "5ab999e6ef6229a88c2e5880e2701a3dd288278156ea409e4d06275cf79c6ba8",
+          "size": 116455
         },
         {
-          "name": "Neve1073 E",
-          "file": "Hardware Models/Neve1073 E.tfunc",
-          "sha256": "36c12db5172348757eb06f0eb2904bf7987cb11a88cbd424144a6043f8ffc45b",
-          "size": 119194
+          "name": "TKIMP-B",
+          "file": "Hardware Models/TKIMP-B.tfunc",
+          "sha256": "6d623c3e9f3b27613747140a6546b5828ac7da8a50c88ddac8c49987ff74da3d",
+          "size": 112294
         },
         {
-          "name": "Neve1073 F",
-          "file": "Hardware Models/Neve1073 F.tfunc",
-          "sha256": "eb436d2337e973d9ecd619e62b6ac047d1749f5bf4e99360e7fb8c66b8cecc1c",
-          "size": 119162
+          "name": "TKIMP-C",
+          "file": "Hardware Models/TKIMP-C.tfunc",
+          "sha256": "dd61b655460904d50ab8739b9a1a5109f7675e3f1d4a906699ec380e87b656a5",
+          "size": 110558
         },
         {
-          "name": "Neve1073 G",
-          "file": "Hardware Models/Neve1073 G.tfunc",
-          "sha256": "42d22605a06844579c29147f73fc727354a23383508eb5ee985b3900515ff4bb",
-          "size": 118831
+          "name": "TKIMP-D",
+          "file": "Hardware Models/TKIMP-D.tfunc",
+          "sha256": "8ac8290b1254d1df17ca9616fe5b8e176eaa6c3eecadf4b6a99b54028c356498",
+          "size": 114242
         },
         {
-          "name": "Neve1073 H",
-          "file": "Hardware Models/Neve1073 H.tfunc",
-          "sha256": "8d93380c78c14f9cd87019d95419762b4ec28ffc1baaaed5981f1f804d4f4088",
-          "size": 118463
+          "name": "V737 SoftClip",
+          "file": "Hardware Models/V737 SoftClip.tfunc",
+          "sha256": "bfb5f746f9b4f55ed4e0cb378fa67bd331bfd2b7aa3a044973dd7932d59afa33",
+          "size": 121253
         },
         {
-          "name": "Plasma Coil A",
-          "file": "Hardware Models/Plasma Coil A.tfunc",
-          "sha256": "64f4e3e0469b7496e32b7d1ac008c0d00a5eb6e6a0c4047588ca706580c170ed",
-          "size": 111130
+          "name": "VX10-A",
+          "file": "Hardware Models/VX10-A.tfunc",
+          "sha256": "30018a2665398f61633b102032155073617b59a7001158509933923325933633",
+          "size": 116538
         },
         {
-          "name": "Plasma Coil B",
-          "file": "Hardware Models/Plasma Coil B.tfunc",
-          "sha256": "3436045b6385b6f37c743d97376ffe070a6c336bf8cb845a644ffededc07675a",
-          "size": 110647
+          "name": "VX10-B",
+          "file": "Hardware Models/VX10-B.tfunc",
+          "sha256": "9030c81806fa5a5fc27cdb94c7991b6665c4f2245d5d79f8e3de987488f58476",
+          "size": 116036
         },
         {
-          "name": "Pultec",
-          "file": "Hardware Models/Pultec.tfunc",
-          "sha256": "9b9122c99fd0746ad9055b85348a61fc238585f548d92209fbf308055b162cdf",
-          "size": 180160
+          "name": "VX10-C",
+          "file": "Hardware Models/VX10-C.tfunc",
+          "sha256": "36839de79eba04be394d5b9e4551499199e888e14d963cb1cb25d78f907da526",
+          "size": 116793
         },
         {
-          "name": "TK Imperial",
-          "file": "Hardware Models/TK Imperial.tfunc",
-          "sha256": "edcb3bdb46a2f9d75dc84502168ac3920e62912d4ededc994b8fadb890feaea6",
-          "size": 119076
+          "name": "VX10-D",
+          "file": "Hardware Models/VX10-D.tfunc",
+          "sha256": "1a698ba1cfc05f800139b101a9c04bf9f258a9a36a5ad67d64c205eb355f37fe",
+          "size": 109693
         },
         {
-          "name": "VT-737-Soft-Clip",
-          "file": "Hardware Models/VT-737-Soft-Clip.tfunc",
-          "sha256": "ac1666a6fda2bac80ef7e6e8739f4284ff0775f2428dc12fcd7b52ee35fb6fb5",
-          "size": 181664
+          "name": "VX10-E",
+          "file": "Hardware Models/VX10-E.tfunc",
+          "sha256": "04347b30fba2284d17770c0ab264dcda46180062b1dee9753260656a7031896f",
+          "size": 105242
         }
       ]
     },
